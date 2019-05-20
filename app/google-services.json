@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881729921203",
+    "firebase_url": "https://chatappusingfirebase-2608c.firebaseio.com",
+    "project_id": "chatappusingfirebase-2608c",
+    "storage_bucket": "chatappusingfirebase-2608c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881729921203:android:4d124c96f6a9bf90",
+        "android_client_info": {
+          "package_name": "com.borislavvelchev.chatappwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881729921203-5b8efqq4k9vgrho3urdugl012ak056he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmrfHLNW3CA4i3aCWLNN4iJIY0rkJI6Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881729921203-5b8efqq4k9vgrho3urdugl012ak056he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
